@@ -1,0 +1,10 @@
+{
+  "name": "pure-web-proxy",
+  "version": "1.0.0",
+  "description": "Premium Pure Edge Proxy Browser",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
